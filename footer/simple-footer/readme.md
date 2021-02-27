@@ -1,0 +1,1 @@
+Első footerem, table-table-cell rendezéssel.
